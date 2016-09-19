@@ -1,0 +1,6 @@
+F:\微信认知服务\源代码\WeixinProjecToxford-master\WeixnUI\bin\WeixnUI.dll.config
+F:\微信认知服务\源代码\WeixinProjecToxford-master\WeixnUI\bin\WeixnUI.dll
+F:\微信认知服务\源代码\WeixinProjecToxford-master\WeixnUI\bin\WeixnUI.pdb
+F:\微信认知服务\源代码\WeixinProjecToxford-master\WeixnUI\obj\Debug\WeixnUI.csprojResolveAssemblyReference.cache
+F:\微信认知服务\源代码\WeixinProjecToxford-master\WeixnUI\obj\Debug\WeixnUI.dll
+F:\微信认知服务\源代码\WeixinProjecToxford-master\WeixnUI\obj\Debug\WeixnUI.pdb
